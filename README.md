@@ -1,3 +1,3 @@
 # Mitochondrial_Project
 
-asdfjalskdfj oaiwejflkdj this is a read me
+what each file does, overview of the two parts of the proj
