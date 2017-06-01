@@ -1,6 +1,6 @@
 # Mitochondrial_Project
 
-*This project is composed of 2 main parts:* <br />
+***This project is composed of 2 main parts:*** <br />
   1.The filtering of genetic sequences in our database to find the BEST sequence for each taxa <br />
       ·This was achieved through a python code---I named it "best_sequence.py"<br />
       ·The sample fasta file I used for experimenting my code is named "multispecies.fasta" <br />
